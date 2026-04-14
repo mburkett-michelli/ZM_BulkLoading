@@ -1,0 +1,37 @@
+{
+  "windows": [
+    {
+      "type": "ScaleZM405",
+      "location": "2487, -380",
+      "size": "734, 514",
+      "open": true
+    }
+  ],
+  "general": {
+    "auto_start": true,
+    "sealed": false,
+    "use_vfi": false,
+    "enable_buzzer": false,
+    "enable_led": false,
+    "enable_keyboard": false,
+    "use_last_firmware_choice": false,
+    "last_firmware_choice": "",
+    "network_enable": false,
+    "multi_scale_checked": false,
+    "setpoint_only_active_checked": false
+  },
+  "network": {
+    "enabled": false,
+    "adapter": "",
+    "mac": "",
+    "cable_connected": false
+  },
+  "scale": {
+    "low_voltage": 0.2,
+    "high_voltage": 4.9,
+    "random_noise": 0.001,
+    "disconnected": false,
+    "load_counts": false,
+    "counts_path": "enter path here"
+  }
+}
